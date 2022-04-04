@@ -1,0 +1,80 @@
+#tdLeft {
+  background-color: #1289a7;
+}
+
+img {
+  width: 40%;
+  display:block;
+margin:auto;
+margin-top: 10px;
+  border: 3px solid  #006266;
+  border-radius:100%;
+;
+  height: auto;
+}
+.principalName{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.titulos{ 
+    text-align: center;
+    color: #ecf0f1;
+}
+p{
+    text-align: justify;
+    margin:20px ;
+    color: white;
+}
+ul{
+    color:white;
+}
+
+#tabla{
+    margin-left: 30px;
+}
+#frameWork{
+
+   margin-left: 30px;
+}
+.contact{
+    font-style: italic;
+    color: white;
+    text-align: left;
+}
+
+
+#tdRight{
+background-color: #f1f2f6;
+
+}
+#cvu{
+    margin-top: -20px;
+    width: 200px;
+}
+
+.titulos2{
+    color:#1289a7;
+    text-align: center;
+}
+.desc{
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.proyectos{
+color: #4b6584;
+margin:10px;
+}
+small{
+    color:#e15f41;
+}
+
+.academic{
+    color: #4b6584;
+}
+h4{
+    color: 4b6584;
+    font-size: 14px;
+}
